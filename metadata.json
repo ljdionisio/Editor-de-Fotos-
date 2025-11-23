@@ -1,0 +1,7 @@
+{
+  "name": "BananaBatch Edit",
+  "description": "A powerful PWA for batch editing up to 100 images using Gemini Nano Banana API. Apply styles, watermarks, and AI enhancements instantly.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
